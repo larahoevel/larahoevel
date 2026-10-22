@@ -2,7 +2,7 @@
 
 **Physician & Biomedical Data Science Researcher**
 
-My research combines clinical hematology, molecular profiling and computational approaches to investigate acute myeloid leukemia (AML) and other myeloid malignancies.
+My research combines clinical hematology, molecular profiling and computational approaches to investigate acute myeloid leukemia and other myeloid malignancies.
 
 ## Research Areas
 
